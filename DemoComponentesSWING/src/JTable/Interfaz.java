@@ -154,7 +154,7 @@ public class Interfaz extends javax.swing.JFrame { //Clase Principal
     }
     
     /*Inicio declaracion mis variables*/
-    DefaultTableModel modelo; //Declaramos el modelo para el ComboBox
+    DefaultTableModel modelo; //Declaramos el modelo para el JTable
     /*Fin declaracion mis variables*/
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnAgregar;
